@@ -1,0 +1,46 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: /hd0a/TEMP/backup.022343
+# 2018-12-03  15:00:30
+#
+>>SYSTEM_ID:
+120-101632
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.07.00.00
+
+  RobotWare Base
+  888-3 PROFINET Device
+  608-1 World Zones
+  613-1 Collision Detection
+  616-1 PC Interface
+  623-1 Multitasking
+  Motor Commutation
+  Service Info System
+  Pendelum Calibration
+  Drive System IRB 120/140/260/360/910SC/1200/1400/1520/1600/1660ID IRC5 Compact
+  Axis Calibration
+  IRB 120-3/0.6
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB1,,)
+PROGMOD/modPark.mod @ 
+PROGMOD/modOpMode.mod @ 
+SYSMOD/user.sys @ 
+PROGMOD/modMain.mod @ 
+PROGMOD/modPickPlace.mod @ 
+
+
+>>EOF:

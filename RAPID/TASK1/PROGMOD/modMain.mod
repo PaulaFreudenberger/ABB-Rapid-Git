@@ -6,7 +6,7 @@ MODULE modMain
     !   Parkposition des Roboters
     pers robtarget Home:=[[231.96,103.06,-637.69],[0.1988,-0.703524,0.656951,-0.184251],[0,0,-1,5],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];
     
-    PERS robtarget posBeforePark:=[[191.552,-31.0874,-653.653],[0.00174016,0.706547,-0.707646,0.00502299],[1,0,-2,5],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];   !Position bevor geparkt wurde
+    PERS robtarget posBeforePark:=[[291.47,169.422,-650.949],[0.273592,-0.649567,0.654463,-0.273656],[0,-2,-3,4],[9E+09,9E+09,9E+09,9E+09,9E+09,9E+09]];   !Position bevor geparkt wurde
     
     !***********************************************************!
     !                       Variablen                           !

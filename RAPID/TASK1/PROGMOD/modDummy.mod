@@ -330,8 +330,5 @@ MODULE modDummy
         WZDOSet \Stat,  wzService  \Inside, volume, O_doDummyMechanicalFree , 1;
 
     ENDPROC
-
-    
-    
     
 ENDMODULE

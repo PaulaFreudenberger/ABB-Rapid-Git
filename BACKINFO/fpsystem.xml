@@ -7,6 +7,9 @@
       <PROP name="dll" value="" />
       <PROP name="type" value="" />
     </DATA>
+    <DATA id="CtrlPnl Configuration">
+      <PROP name="LASTPATH" value="/hd0a/120-101632/HOME" />
+    </DATA>
     <DATA id="DefaultPath">
       <PROP name="BackupRestore" value="" />
       <PROP name="Configuration" value="" />
